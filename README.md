@@ -17,8 +17,6 @@
 
 -[![Vue3-Magic-Generator](https://github-readme-stats.vercel.app/api/pin/?username=yxhpy&repo=Vue3-Magic-Generator&theme=radical)](https://github.com/yxhpy/Vue3-Magic-Generator)
 
--[![Vue3-Starter-Kit](https://github-readme-stats.vercel.app/api/pin/?username=yxhpy&repo=Vue3-Starter-Kit&theme=radical)](https://github.com/yxhpy/Vue3-Starter-Kit)
-
 ### 🔥 懾服神御之名语
 
 贤者、俯览码坛腥风棘箭，当纷纷阅吾实世报。

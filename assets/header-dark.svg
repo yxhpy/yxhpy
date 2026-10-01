@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="336" viewBox="0 0 1200 336" role="img" aria-labelledby="title desc">
+  <title id="title">DawnWeaver — Build useful things.</title>
+  <desc id="desc">A quiet editorial cover for yxhpy. AI tools, developer workflows and full-stack engineering, with a woven sunrise illustration.</desc>
+  <defs>
+    <clipPath id="sunrise"><rect x="830" y="62" width="340" height="131"/></clipPath>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#263b47"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="334" rx="20" fill="#111b24" stroke="#273641" stroke-width="2"/>
+  <path d="M63 44h18m-9-9v18" stroke="#8ac5b6" stroke-width="2"/>
+  <text x="94" y="50" fill="#a2b4bf" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="1.6">DAWNWEAVER / yxhpy</text>
+  <text x="61" y="155" fill="#eef3f4" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-3">Build useful</text>
+  <text x="61" y="239" fill="#eef3f4" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-3">things<tspan fill="#8ac5b6">.</tspan></text>
+  <path d="M65 273h34" stroke="#8ac5b6" stroke-width="3"/>
+  <text x="114" y="280" fill="#a2b4bf" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing=".2">AI tools · developer workflows · full-stack</text>
+  <rect x="818" y="70" width="332" height="205" fill="url(#grid)" opacity=".9"/>
+  <g clip-path="url(#sunrise)">
+    <circle cx="983" cy="188" r="108" fill="none" stroke="#80aebb" stroke-width="2"/>
+    <circle cx="983" cy="188" r="83" fill="none" stroke="#8ac5b6" stroke-width="2"/>
+    <circle cx="983" cy="188" r="58" fill="#efb488" opacity=".9"/>
+    <path d="M931 143h105M927 157h112M925 171h116M925 185h116" stroke="#111b24" stroke-width="3"/>
+  </g>
+  <path d="M846 204h274" stroke="#80aebb" stroke-width="2"/>
+  <path d="M850 222c38-22 62 22 101 0s65-22 101 0 46 12 66 0" fill="none" stroke="#8ac5b6" stroke-width="2"/>
+  <path d="M850 241c38-22 62 22 101 0s65-22 101 0 46 12 66 0" fill="none" stroke="#80aebb" stroke-width="2" opacity=".7"/>
+  <path d="M875 108v160m24-187v196m24-209v210m120-210v210m24-209v210m24-187v196" stroke="#263b47" stroke-width="1"/>
+  <circle cx="875" cy="204" r="4" fill="#8ac5b6"/>
+  <circle cx="1091" cy="204" r="4" fill="#8ac5b6"/>
+  <text x="908" y="299" fill="#a2b4bf" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="1.4">IDEA → BUILD → SHIP</text>
+</svg>

@@ -1,120 +1,65 @@
-# <div align="center">🏯 玄机妙算 • 代码乾坤</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yxhpy/yxhpy/main/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yxhpy/yxhpy/main/assets/header-light.svg">
+  <img alt="DawnWeaver — Build useful things. AI tools, developer workflows, full-stack." src="https://raw.githubusercontent.com/yxhpy/yxhpy/main/assets/header-light.svg" width="100%">
+</picture>
 
-<div align="center">
+### 你好，我是 DawnWeaver。
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ZCOOL+XiaoWei&size=35&pause=1000&color=6F3BF5&center=true&vCenter=true&random=false&width=600&lines=明月几时有，把酒问青天;不知天上宫阔，今夕是何年)](https://git.io/typing-svg)
+把想法做成真正能用的工具。关注 **AI 应用、开发者工作流与全栈工程**，喜欢把复杂链路整理成清晰、可复用的产品。
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> 全栈技术探索者 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> AI 创新实践者 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> 开源精神传承者
+[公开项目](https://github.com/yxhpy?tab=repositories&type=source) · [近期动态](https://github.com/yxhpy?tab=overview) · [讨论与反馈](https://github.com/yxhpy/yxhpy/issues)
 
-</div>
+<br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" /> 技术之道
+## Selected work
 
-```text
-🎯 专注领域
-├── 全栈开发
-│   ├── 前端: Vue.js / React / TypeScript
-│   └── 后端: Java / Python / Spring
-├── AI 技术
-│   ├── 大语言模型应用
-│   └── AI 辅助开发
-└── 系统架构
-    ├── 分布式系统
-    └── 微服务架构
-```
-
-<div align="center">
-
-![技能树](https://skillicons.dev/icons?i=python,java,vue,cpp,spring,js,docker,mysql,react,ts,redis,git,linux,vscode&perline=7)
-
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" /> 项目精选
+从创意工具到工程基础设施，一些持续打磨的作品。
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/yxhpy/V-Fetcher">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yxhpy&repo=V-Fetcher&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yxhpy/comfy-prompt-studio">Comfy Prompt Studio ↗</a></h3>
+      <p>把提示词与 ComfyUI 工作流连接起来的图像创作工具，让生成、预览与迭代在一个界面里完成。</p>
+      <p><code>Python</code> <code>ComfyUI</code> <code>Creative tools</code></p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/yxhpy/wanyan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yxhpy&repo=wanyan&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yxhpy/qcc_plus">qcc_plus ↗</a></h3>
+      <p>Claude Code CLI 代理服务器，围绕多租户、自动故障切换和 Web 管理界面组织服务。</p>
+      <p><code>Go</code> <code>CLI</code> <code>Infrastructure</code></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/yxhpy/ai-prototype-drawing">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yxhpy&repo=ai-prototype-drawing&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yxhpy/codex-extensions-marketplace">Codex Extensions ↗</a></h3>
+      <p>面向 Codex / Pi 的插件、技能与 MCP 工具，把任务编排、协作和验证沉淀为可复用工作流。</p>
+      <p><code>JavaScript</code> <code>Agents</code> <code>MCP</code></p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/yxhpy/Vue3-Magic-Generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yxhpy&repo=Vue3-Magic-Generator&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yxhpy/api-full-chain-review">API Full-Chain Review ↗</a></h3>
+      <p>从 Controller 入口追踪到权限、数据链路和事务，面向全量 API 核查的可移植 Agent Skill。</p>
+      <p><code>Python</code> <code>Security</code> <code>Code review</code></p>
     </td>
   </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> 代码足迹
+**More to explore** &nbsp; [Image-2 Prompt](https://github.com/yxhpy/image-2-prompt) · [ChatGPT Pro Browser](https://github.com/yxhpy/chatgpt-pro-browser) · [V2Ray Subscription Manager](https://github.com/yxhpy/v2ray-subscription-manager)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yxhpy&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yxhpy&theme=tokyonight&hide_border=true" />
-</div>
+<br>
 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxhpy&layout=compact&theme=tokyonight&hide_border=true" />
-  
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yxhpy&theme=tokyonight&utcOffset=8" />
-</div>
+## What I build with
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="35" height="35" /> 近期探索
+**应用开发** &nbsp; Python · Go · Java · TypeScript / JavaScript  
+**界面与服务** &nbsp; React · Vue · Spring · Flask  
+**工程与自动化** &nbsp; Linux · Docker · Git · MCP · Agent workflows
 
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="20" height="20" /> 大语言模型应用开发
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass" width="20" height="20" /> AI 辅助设计工具研究
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" height="20" /> 分布式系统架构设计
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Book.png" alt="Book" width="20" height="20" /> 技术文档写作
-    </td>
-  </tr>
-</table>
+比起堆叠技术，更在意它们能否解决实际问题：界面清楚、链路可追踪、结果可验证。
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="35" height="35" /> 与我联系
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-yxhpy-6e40c9?style=for-the-badge&logo=github)](https://github.com/yxhpy)
-[![Blog](https://img.shields.io/badge/Blog-技术随笔-blue?style=for-the-badge&logo=blogger)](https://github.com/yxhpy)
-[![Email](https://img.shields.io/badge/Email-联系我-red?style=for-the-badge&logo=gmail)](mailto:example@email.com)
-
-</div>
+<br>
 
 ---
 
-<div align="center">
+有想法、问题或改进建议？欢迎在对应项目提交 Issue。  
+**Less noise. More useful things.**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> **编码之道**
-
-*溯洄从之，道阻且长。编码之路，永无止境。*
-
-<img src="https://profile-counter.glitch.me/yxhpy/count.svg" />
-
-</div>
-
-<!--
-  注：请将 example@email.com 替换为您的实际邮箱地址
-  如果您有个人博客，也请更新博客链接
--->
+<!-- Profile assets are self-hosted in this repository. Only public projects are listed. -->
